@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي ناداك
+> في عيوني شوق وحنين
+> روحي تسألني عن هواك
+> وحدك ساكن في الوتين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
