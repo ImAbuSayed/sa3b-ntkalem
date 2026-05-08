@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sa3b Ntkalem
+
+This log tracks the cryptographic history and versioning for the song **Sa3b Ntkalem** (sa3b-ntkalem).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T00:52:13.587447 | `v1` | `a68cff5087b73f252a6836358aab694b4bcf7ced7ff91b05317947219fc0aab3` | `dff969c9a8909372ae2af1462483453688dbf4e119b80f6c65641f2526770de5` | `2026-05-09_sa3b-ntkalem-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
